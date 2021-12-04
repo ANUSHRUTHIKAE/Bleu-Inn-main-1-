@@ -171,3 +171,48 @@ footer{
     margin-right:2vw;
     opacity:0.7;
 }
+.suites{
+    margin-top:10vh;
+}
+.suites .s{
+    width:22vw;
+    height:40vh;
+    font-size:2em;
+    font-weight:bolder;
+    padding-top:2vh;
+    padding-left:2vw;
+    color:#c4a159;
+    margin-top:3vh;
+    margin-bottom:3vh;
+    margin-left: 3vw;
+    margin-right:3vw;
+    
+    
+}
+.b{
+    height:50vh;
+    background-color:#48ABC1;
+    float:left;
+    width:22vw;
+    margin-top:3vh;
+    margin-bottom:3vh;
+    margin-left: 3vw;
+    margin-right:3vw;
+    font-family: 'Gwendolyn', cursive;
+    
+    /* background-color: black; */
+}
+.verna{
+    background-image: url("images/bg33.jpeg");
+    background-size:cover ;
+}
+.camelia{
+    background-image: url("images/bg33.jpg");
+    background-size:cover ;
+
+}
+.grandtour{
+    background-image: url("images/bg32.png");
+    background-size:cover ;
+
+}
