@@ -71,7 +71,8 @@ margin-top:0;
     letter-spacing:0.2vw;
 }
 .carousel__viewport{
-    left:-52vw;
+    left:-40vw;
+    margin-right:10vw;
 }
 
 .carousel__slide:nth-child(1) {
@@ -185,9 +186,7 @@ footer{
     margin-top:3vh;
     margin-bottom:3vh;
     margin-left: 3vw;
-    margin-right:3vw;
-    
-    
+    margin-right:3vw;    
 }
 .b{
     height:50vh;
@@ -202,6 +201,9 @@ footer{
     
     /* background-color: black; */
 }
+.b a:link,.b a:visited ,.b a:active,.b a{
+    text-decoration:none;
+}
 .verna{
     background-image: url("images/bg33.jpeg");
     background-size:cover ;
@@ -214,5 +216,80 @@ footer{
 .grandtour{
     background-image: url("images/bg32.png");
     background-size:cover ;
-
 }
+.hero-image div{
+color:#c4a159;
+letter-spacing:0.2vw;
+}
+.grand .carousel__slide:nth-child(1) {
+    background: url("images/bg39.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .grand .carousel__slide:nth-child(2) {
+    background: url("images/bg36.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .grand .carousel__slide:nth-child(3) {
+    background: url("images/bg40.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .grand .carousel__slide:nth-child(4) {
+    background: url("images/bg38.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .camel .carousel__slide:nth-child(1) {
+    background: url("images/bg41.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .camel .carousel__slide:nth-child(2) {
+    background: url("images/bg42.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .camel .carousel__slide:nth-child(3) {
+    background: url("images/bg43.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .camel .carousel__slide:nth-child(4) {
+    background: url("images/bg44.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .donate{
+      clear:both;
+      background-image: url("images/bg5.jpg");
+      height:120vh;
+      padding-top: 14vh;
+  }
+  .donate-header{
+    background: #5fc6ddf5;
+    margin-top: -30em;
+  }
+  .pay-now-button button{
+    background:none;
+  }
+  .amb{
+    font-family: "EB Garamond";
+    padding-top:7vh;
+    color:#c4a159;
+    background:blanchedalmond;
+  }
+.amb1{
+    padding-top:10vh;
+}
+.amb3 img{
+    margin-top: -24vh;
+}
+ /* .amb1{
+     background:url("images/bg45.jpg");
+     background-repeat:no-repeat;
+     margin-top:-5vh;
+     background-size:cover;
+     opacity:1;
+ } */
