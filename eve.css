@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Red+Hat+Display:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nanum+Myeongjo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playball&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+.tbg1{
+    background:url("images/bg51.jpg");
+    background-size: cover;
+    opacity:1;
+    height:90vh;
+    width:75vw;
+    margin-left:10vw;
+    margin-top:10vh;
+    position:relative;
+    z-index:10;
+    margin-bottom:40vh;
+}
+
+.enen{
+    background: #EEEEEE;
+    padding-top: 14vh;
+}
+.enclosing{
+
+    color:rgb(57, 57, 58);
+    font-size:1.7em;
+    
+    padding-top: 15vh;
+    padding-left:5vw;
+    padding-bottom: 41vh;
+    padding-right:5vw;
+    text-align:right;
+    font-family: 'EB Garamond', serif;
+    font-style:italic;
+    
+    
+}
+
+.c3 img {
+    margin-top: -84vh;
+    margin-left: 17vh;
+    margin-bottom: 15vh;
+    width:42vw;
+}
+
+.Recents{
+    color:rgb(57, 57, 58);
+    font-size:5.5em;
+    letter-spacing:0.4vw;
+    font-family: 'EB Garamond', serif;
+    padding-bottom:5vh;
+    text-align: center;
+
+}
+.carousel__slide:nth-child(4),.carousel__slide:nth-child(3),.carousel__slide:nth-child(2),.carousel__slide:nth-child(1) {
+    background: none;
+  }
+  .carousel__viewport {
+    left: -58vw;
+    margin-right: -3vw;
+}
+.b-img{
+background:url("https://www.bellevue.it/style/images/index/reviewsBack.jpg");
+}
+.tbg{
+    opacity:0.8;
+}
+.rtop{
+    margin-left:0;
+    height:90vh;
+    padding-top:0;
+}
+.r1{
+    margin-bottom:10vh;
+}
+.car{
+    margin-bottom:0;
+}
+.sup{
+    background:white;
+    padding-left:  5vw;
+    padding-right:5vw;
+    padding-top:5vh;
+    padding-bottom:5vh;
+    color:rgb(57, 57, 58);
+    top: 22vh;
+    right: 32vw;
+    width:366vw;
+    font-family: 'EB Garamond', serif;    
+}
+
+.latest{
+    transform:rotate(-90deg);
+    font-size:5em;
+    font-family: 'EB Garamond', serif;
+    margin-left: 46vw;
+   
+    color:rgb(57, 57, 58);
+
+}
+.sup h1{
+    font-size:1.3em;
+ 
+    font-family: 'EB Garamond', serif;
+}
+.donate{
+    background:url("images/bg54.jpeg");
+    background:cover;
+    height: 92vh;
+    padding-top: 10vh;
+    margin-top: 4em;
+}
+.form{
+    width: 52%;
+    margin-right: -3vw;
+    background:whitesmoke;
+}
+
+.input-box input {
+background:whitesmoke;
+}
+
+.input-border{
+    background:black;
+}
