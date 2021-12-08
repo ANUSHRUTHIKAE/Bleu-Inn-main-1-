@@ -75,7 +75,8 @@ body {
 }
 
 .main {
-  overflow: scroll;
+  overflow-y: scroll;
+  overflow-x:hidden;
   width: 85%;
 }
 
@@ -983,11 +984,9 @@ footer .contact-bottom-border {
     top: 95px;
   }
 }
-/* events */
-.amb1{
-/* height:50vh;
-width:50vw; */
 
-
+iframe{
+  height:90vh;
+  width:100vw;
 
 }
